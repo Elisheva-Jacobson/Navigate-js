@@ -9,7 +9,7 @@ Also ensures that the section displayed is in sync with the url, so that the bro
 **Installation**
 
 Run npm i navigate-js in your terminal.
-Include import navigate from navigate-js in your JS file.
+Include import navigate from 'navigate-js' in your JS file (if using webpack) or import navigate from '/node_modules/navigate-js/index.js' if using es6 modules without webpack.
 
 **Usage**
 
@@ -32,7 +32,7 @@ Example 1:
 
 _JS file_
 
-![example1Js](https://user-images.githubusercontent.com/83898488/158072262-ec321ef8-50f3-42fb-86df-3b2e6d60a66b.jpg)
+![example1Js](https://user-images.githubusercontent.com/83898488/158080378-3252c104-e657-4f46-a3ea-af4946291936.jpg)
 
 _Supporting html_
 
@@ -42,7 +42,7 @@ Example 2:
 
 _JS file_
 
-![example2Js](https://user-images.githubusercontent.com/83898488/158072197-b118258c-d72d-4894-884d-879ced0c5843.jpg)
+![example2Js](https://user-images.githubusercontent.com/83898488/158080384-d9cf3c33-8d2d-4f96-8700-07d88d3a9eea.jpg)
 
 _Supporting html_
 
