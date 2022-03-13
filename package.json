@@ -1,7 +1,7 @@
 {
   "name": "navigate",
   "version": "1.0.0",
-  "description": "Router for navigating between sections or \"pages\" of a website without a frontend framework such as React.",
+  "description": "Easy client-side routing for vanilla JS sites",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
