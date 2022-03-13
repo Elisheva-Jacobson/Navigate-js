@@ -2,10 +2,7 @@
   "name": "navigate-js",
   "version": "1.0.0",
   "description": "Easy client-side routing for vanilla JS sites",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+  "main": "index",
   "keywords": [],
   "author": "Elisheva Jacobson",
   "license": "MIT",
