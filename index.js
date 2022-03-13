@@ -70,6 +70,8 @@ class Navigator {
     if (displayIndex !== null) {
       this.sections[displayIndex].style.display = 'block';
       this.currentlyShowing = this.IDS[displayIndex];
+    } else {
+      this.currentlyShowing = null;
     }
   }
 }
