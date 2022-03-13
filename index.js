@@ -76,6 +76,6 @@ class Navigator {
   }
 }
 
-export default function (ids, startShowing, callbacks) {
+export default function navigate(ids, startShowing, callbacks) {
   new Navigator(ids, startShowing, callbacks);
 }
