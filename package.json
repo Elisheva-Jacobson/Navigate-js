@@ -1,5 +1,5 @@
 {
-  "name": "navigate",
+  "name": "navigate-js",
   "version": "1.0.0",
   "description": "Easy client-side routing for vanilla JS sites",
   "main": "index.js",
