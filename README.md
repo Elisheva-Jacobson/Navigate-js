@@ -44,22 +44,7 @@ function callback3() {
 }
 
 Supporting html
-<body>
-    <nav>
-            <a href="#section1"></a>
-            <a href="#section2"></a>
-            <a href="#section3"></a>
-    </nav>
-    <section id="section1">
-        <div>Section 1</div>
-    </section>
-    <section id="section2">
-        <div>Section 2</div>
-    </section>
-    <section id="section3">
-        <div>Section 3</div>
-    </section>
-</body>
+![example1Html](https://user-images.githubusercontent.com/83898488/158046877-53082a14-8b7c-4f0a-9ba5-797153a5cd8d.jpg)
 
 Example 2:
 JS file
@@ -84,27 +69,4 @@ njs(['part1', 'part2', 'part3'], null);
 //since null is passed as the second parameter, none of the elements with an id of part1, part2, or part3 will display by default
 
 Supporting html
-<body>
-    <nav>
-            <a href="#section1"></a>
-            <a href="#section2"></a>
-            <a href="#section3"></a>
-    </nav>
-    <section id="section1">
-        <div>Section 1</div>
-    </section>
-    <section id="section2">
-    <nav>
-            <a href="#part1"></a>
-            <a href="#part2"></a>
-            <a href="#part3"></a>
-        </nav>
-        <div>Section 2</div>
-        <div id="part1">Part 1</div>
-        <div id="part2">Part 2</div>
-        <div id="part3">Part 3</div>
-    </section>
-    <section id="section3">
-        <div>Section 3</div>
-    </section>
-</body>
+![example2Html](https://user-images.githubusercontent.com/83898488/158046858-f1ce6858-dae9-46c4-a159-bc4482d2dc3a.jpg)
