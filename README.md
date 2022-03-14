@@ -32,7 +32,7 @@ Example 1:
 
 _JS file_
 
-![example1Js](https://user-images.githubusercontent.com/83898488/158080378-3252c104-e657-4f46-a3ea-af4946291936.jpg)
+![example1Js](https://user-images.githubusercontent.com/83898488/158090464-4e2ab4eb-0414-4ee2-8f47-229fd4e09d1c.jpg)
 
 _Supporting html_
 
@@ -42,7 +42,7 @@ Example 2:
 
 _JS file_
 
-![example2Js](https://user-images.githubusercontent.com/83898488/158080384-d9cf3c33-8d2d-4f96-8700-07d88d3a9eea.jpg)
+![example2Js](https://user-images.githubusercontent.com/83898488/158090478-449f9c1d-59f9-47cd-98ce-aeebbf9822da.jpg)
 
 _Supporting html_
 
