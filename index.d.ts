@@ -1,1 +1,1 @@
-declare module 'navigate-js';
+declare module 'js-routing';
