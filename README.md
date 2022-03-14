@@ -1,4 +1,4 @@
-# Navigate-js
+# js-routing
 Easy client-side routing for vanilla JS sites
 
 When you're building a single-page website without a frontend framework such as React, this small package can help you implement routing with a single function invocation.
@@ -8,8 +8,8 @@ Also ensures that the section displayed is in sync with the url, so that the bro
 
 **Installation**
 
-Run npm i navigate-js in your terminal.
-Include import navigate from 'navigate-js' in your JS file (if using webpack) or import navigate from '/node_modules/navigate-js/index.js' if using es6 modules without webpack.
+Run npm i js-routing in your terminal.
+Include import navigate from 'js-routing' in your JS file (if using webpack) or import navigate from '/node_modules/js-routing/index.js' if using es6 modules without webpack.
 
 **Usage**
 
