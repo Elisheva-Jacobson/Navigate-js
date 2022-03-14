@@ -3,8 +3,20 @@
   "version": "1.0.0",
   "description": "Easy client-side routing for vanilla JS sites",
   "main": "index",
-  "keywords": [],
+  "keywords": [
+    "javascript",
+    "router",
+    "route",
+    "routing",
+    "browser",
+    "spa"
+  ],
   "author": "Elisheva Jacobson",
   "license": "MIT",
-  "module": "true"
+  "module": "true",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Elisheva-Jacobson/js-routing.git"
+  },
+  "homepage": "https://github.com/Elisheva-Jacobson/js-routing"
 }
