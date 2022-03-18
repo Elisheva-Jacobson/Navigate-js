@@ -9,7 +9,8 @@
     "route",
     "routing",
     "browser",
-    "spa"
+    "spa",
+    "js"
   ],
   "author": "Elisheva Jacobson",
   "license": "MIT",
